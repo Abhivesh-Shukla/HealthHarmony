@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DespondentG/HealthHarmony">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Health Harmony</h3>
