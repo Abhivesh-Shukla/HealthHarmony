@@ -1,6 +1,6 @@
 
 <!-- ABOUT THE PROJECT -->
-## HealthHarmony
+# HealthHarmony
 The "Health Harmony" project aims to create a comprehensive platform or application focused on health-related aspects. While the specific details may not be available without direct access to the repository, the project likely involves elements such as:
 
 Health Monitoring: It may include features for monitoring vital health indicators such as heart rate, blood pressure, activity levels, and more.
