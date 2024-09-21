@@ -46,8 +46,6 @@ This is an example of how to list things you need to use the software and how to
 4. Run the Website and explore the various different tracks and features!
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -55,20 +53,8 @@ This is an example of how to list things you need to use the software and how to
 
 This is a project that can be used and implemented in places where users find it difficult to stay motivated and dedicated to the cause of bettering their own health.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Computer Vision and ML guided Exercise
-- [ ] AI Diet Chart Planner
-- [ ] Health Diagnosis
-
-See the [open issues](https://github.com/DespondentG/HealthHarmony/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -86,7 +72,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
