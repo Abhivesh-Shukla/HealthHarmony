@@ -10,7 +10,6 @@ User Engagement: The project may prioritize user engagement through features lik
 Integration with Devices: It could integrate with wearable devices or sensors to gather real-time health data for a more accurate assessment.
 Data Privacy and Security: Given the sensitive nature of health data, the project likely emphasizes robust security measures and data privacy protocols.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
